@@ -11,7 +11,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it by emailing **security@example.com** or by submitting a [GitHub Security Advisory](https://github.com/OWNER/REPO/security/advisories/new).
+If you discover a security vulnerability, please report it by emailing **security@yourdomain.com** or by submitting a [GitHub Security Advisory](https://github.com/your-org/your-repo/security/advisories/new).
 
 - **Acknowledgment:** We will acknowledge receipt of your report within **2 business days**.
 - **Updates:** We will provide status updates at least every **7 days** until the issue is resolved or a fix is released.
