@@ -11,7 +11,7 @@ require (
 	github.com/graze/go-throttled v0.3.1
 	github.com/ogen-go/ogen v1.8.1
 	github.com/r3labs/sse/v2 v2.10.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/tonkeeper/tongo v1.7.0
 	go.opentelemetry.io/otel v1.32.0
 	go.opentelemetry.io/otel/metric v1.32.0
