@@ -55,8 +55,8 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.11.1 h1:7s2iGBzp5EwR7/aIZr8ao5+dra3wiQyKjjFuvgVKu7U=
 github.com/stretchr/testify v1.11.1/go.mod h1:wZwfW3scLgRK+23gO65QZefKpKQRnfz6sD981Nm4B6U=
-github.com/tonkeeper/tonapi-go v0.0.13 h1:rDMdwq0EdHOKR/KS55r8XErIDccP5CA5AXBrrhUH/rs=
-github.com/tonkeeper/tonapi-go v0.0.13/go.mod h1:iGHl6iVxlvXnSusK0AH22yiv47UQU9yCxy7qAd4NYt4=
+github.com/tonkeeper/tonapi-go v1.0.1 h1:CcOOhD/yb3IUNM9v8zYtg4j+jBQkkJNdoRqXgHtRJyk=
+github.com/tonkeeper/tonapi-go v1.0.1/go.mod h1:iGHl6iVxlvXnSusK0AH22yiv47UQU9yCxy7qAd4NYt4=
 github.com/tonkeeper/tongo v1.17.1 h1:tp5YshzHWj+ONUHrk1+zWxdtjYo2lHQRHEcfh8i4Ub0=
 github.com/tonkeeper/tongo v1.17.1/go.mod h1:nHmdEXPfT0/EvkEaBzPiY599/0OYjQSW4dWR7aX+OII=
 go.opentelemetry.io/otel v1.32.0 h1:WnBN+Xjcteh0zdk01SVqV55d/m62NJLJdIyb4y/WO5U=

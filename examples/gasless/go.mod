@@ -6,7 +6,7 @@ toolchain go1.24.1
 
 require (
 	github.com/shopspring/decimal v1.4.0
-	github.com/tonkeeper/tonapi-go v0.0.13
+	github.com/tonkeeper/tonapi-go v1.0.1
 	github.com/tonkeeper/tongo v1.17.1
 )
 
