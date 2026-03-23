@@ -1,6 +1,6 @@
 module github.com/tonkeeper/tonapi-go
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/go-faster/errors v0.7.1
@@ -15,7 +15,7 @@ require (
 	go.opentelemetry.io/otel/metric v1.32.0
 	go.opentelemetry.io/otel/trace v1.32.0
 	golang.org/x/sync v0.19.0
-	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
+	golang.org/x/time v0.15.0
 )
 
 require (
