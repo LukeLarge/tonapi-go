@@ -6,6 +6,8 @@ require (
 	github.com/go-faster/errors v0.7.1
 	github.com/go-faster/jx v1.2.0
 	github.com/gorilla/websocket v1.5.1
+	github.com/go-faster/jx v1.1.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/graze/go-throttled v0.3.1
 	github.com/ogen-go/ogen v1.20.2
 	github.com/r3labs/sse/v2 v2.10.0
